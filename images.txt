@@ -1,3 +1,4 @@
+ --platform=linux/arm64 jeessy/ddns-go
 jeessy/ddns-go
 calico/cni:v3.25.0
 calico/cni:v3.25.0
